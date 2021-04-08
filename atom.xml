@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://name-L.github.io</id>
     <title>L</title>
-    <updated>2021-04-08T01:21:38.880Z</updated>
+    <updated>2021-04-08T01:33:05.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://name-L.github.io"/>
     <link rel="self" href="https://name-L.github.io/atom.xml"/>
@@ -10,4 +10,19 @@
     <logo>https://name-L.github.io/images/avatar.png</logo>
     <icon>https://name-L.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, L</rights>
+    <entry>
+        <title type="html"><![CDATA[自述]]></title>
+        <id>https://name-L.github.io/post/zi-shu/</id>
+        <link href="https://name-L.github.io/post/zi-shu/">
+        </link>
+        <updated>2021-04-08T01:26:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>我是一个渴望爱情却又得不到爱情，敲代码还总报错的小傻瓜</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我是一个渴望爱情却又得不到爱情，敲代码还总报错的小傻瓜</p>
+<!-- more -->
+<pre><code>~~~~🙁
+&lt;!-- more --&gt;
+</code></pre>
+]]></content>
+    </entry>
 </feed>
